@@ -1,0 +1,42 @@
+.innnerMap img {
+    max-width: 100%;
+}
+
+
+
+#description , #price {
+    color: gray;
+    font-weight: 700;
+}
+
+#compatablity , #facality{
+    color: gray;
+    padding: 0!important;
+    margin:  0!important;
+}
+
+#bigPrice {
+    color: black;
+    font-size: x-large;
+}
+
+.spacing {
+    padding-top: 30px;
+}
+
+
+
+header img {
+    height: 70px;
+    max-width: 100%;
+}
+
+.place {
+    color: red;
+    font-size: xx-large;
+}
+
+.map {
+    border: 1px solid;
+    border-radius: 30px;
+}

@@ -1,0 +1,39 @@
+.form-section {
+    margin: 12% 22% 2% 22%;
+    padding: 3% 3% 3% 3%;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+input[type=checkbox][name=newUser] {
+    display: none;
+}
+
+#formName {
+    border-bottom: 1px solid ;
+    padding: 0 5px 10px 5px;
+}
+
+.form-check-label {
+    color : red!important;
+    cursor: pointer;
+    width: 75%;
+    float: right;
+}
+
+
+#slogan {
+    float: left;
+}
+
+.signInWithPopUp {
+    height: 40px;
+    width: 300px;
+    margin: auto;
+}
+
+.signInWithPopUp img {
+    max-height: 100%;
+    padding-right: 30px;
+    
+}

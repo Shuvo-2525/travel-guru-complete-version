@@ -1,0 +1,45 @@
+.contactPage{
+    background-color: black;
+    margin: 0!important;
+    padding: 0!important;
+    height: 100vh!important;
+}
+
+.rightCard {
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+.rightCard {
+    /* height: 500px; */
+    margin: auto;
+    padding: 25px;
+} 
+
+.leftCard-img img {
+    max-width: 100%;
+}
+
+#myName , #skills {
+    color: white;
+    width: 10px;
+    border-bottom: 1px solid white;
+}
+
+.headings  {
+    color: white;
+}
+
+#connect {
+    border: 1px solid white;
+    margin: 25px;
+    padding: 10px;
+    color: white;
+    border-radius: 30px;
+}
+
+#contactSlogan {
+    text-align: center;
+    padding-bottom: 20px;
+    color: white;
+}
